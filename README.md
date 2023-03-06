@@ -12,13 +12,13 @@ Framework CSS
 - Boostrap
 
 API 
-[Rick and Morty API] (https://rickandmortyapi.com/)
-[Para manejo de log in - sign up y log out] (auth0.com)
+[Rick and Morty API](https://rickandmortyapi.com/)
+[Para manejo de log in - sign up y log out](auth0.com)
 
 Muchas gracias por usar esta aplicacion espero feedback para mejorarla
 
 ## Contacto
 
-[Twitter] (https://twitter.com/Alex_Buelvas92)
-[Instagram] (https://www.instagram.com/alex_buelvas/)
-[Linkeind] (https://www.linkedin.com/in/alexis-buelvas/)
+[Twitter](https://twitter.com/Alex_Buelvas92)
+[Instagram](https://www.instagram.com/alex_buelvas/)
+[Linkeind](https://www.linkedin.com/in/alexis-buelvas/)
