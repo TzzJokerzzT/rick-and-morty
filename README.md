@@ -19,6 +19,6 @@ Muchas gracias por usar esta aplicacion espero feedback para mejorarla
 
 ## Contacto
 
-[Twitter](https://twitter.com/Alex_Buelvas92)
-[Instagram](https://www.instagram.com/alex_buelvas/)
-[Linkeind](https://www.linkedin.com/in/alexis-buelvas/)
+- [Twitter](https://twitter.com/Alex_Buelvas92)
+- [Instagram](https://www.instagram.com/alex_buelvas/)
+- [Linkeind](https://www.linkedin.com/in/alexis-buelvas/)
